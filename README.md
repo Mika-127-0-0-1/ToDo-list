@@ -1,6 +1,8 @@
 # ToDo-Frontend
 
-This template should help get you started developing with Vue 3 in Vite.
+This template should help get you started developing with Vue 3 in Vite. 
+
+The project is unfinished. I am currently struggling with the relationship between the backend and the frontend. Thus the todo components are not rendering.
 
 ## Recommended IDE Setup
 
